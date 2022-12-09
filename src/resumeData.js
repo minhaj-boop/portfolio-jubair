@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl": "",
-  "name": "Md. Jubair Ahmed Sourov",
-  "role": "Frontend Developer and Data Scientist",
+  "name": "MD Jubair Ahmed Sourov",
+  "role": "Data Scientist, ",
   "linkedinId": "Your LinkedIn Id",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "Robotics Engineer and Research Associate.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -27,24 +27,20 @@ let resumeData = {
   "website": "Webisite: TODO",
   "education": [
     {
-      "UniversityName": "The LNM Insitute of Information Technology",
-      "specialization": "Some specialization",
-      "MonthOfPassing": "Aug",
-      "YearOfPassing": "2020",
-      "Achievements": "Some Achievements"
-    },
-    {
-      "UniversityName": "Some University",
-      "specialization": "Some specialization",
-      "MonthOfPassing": "Jan",
-      "YearOfPassing": "2018",
-      "Achievements": "Some Achievements"
+      "UniversityName": "University of Dhaka",
+      "specialization": "Bsc in Robotics and Mechatronics Engineering",
+      "YearOfPassing": "1 Jan 2016 - 31 Dec 2019",
+      "Achievements": "Some Achievements",
+      "address": "1000 Dhaka (Bangladesh)",
+      "finalGrade": "3.69/4",
+      "thesis": "REXPLORER: Rescue and Exploration Using Swarm of Robots",
+      "skills": "Robotics and embedded systems, Internet of Things, Microcontroller and PLC, Computer Vision (Pytorch,TensorFlow), Artificial Intelligence: Machine Learning, Deep Learning, Reinforcement Learning, MATLAB"
     }
   ],
   "work": [
     {
-      "CompanyName": "Some Company",
-      "specialization": "Some specialization",
+      "CompanyName": "Bangladesh Robot Olympiad",
+      "specialization": "Mentor",
       "MonthOfLeaving": "Jan",
       "YearOfLeaving": "2018",
       "Achievements": "Some Achievements"
