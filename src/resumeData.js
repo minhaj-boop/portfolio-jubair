@@ -135,6 +135,31 @@ let resumeData = {
     "awa": "AWA : 3.0"
   },
 
+  "voluntaryActivities":
+  {
+    "a1": "Mentor & Organizer, Bangladesh Robot Olympiad.",
+    "t1": "Conducted robotics boot camps and prepared for International Robot Olympiad.",
+    "t2": "Organized the national event of Bangladesh Robot Olympiad.",
+    "a2": "Founding Director, Manager and Content Creator, www.musophia.com.",
+    "t3": "The ultimate platform dedicated to music in Bengali language.",
+    "a3": "Robotics Instructor, Mindcraft Labs.",
+    "d1": "2018-2019",
+    "d2": "2017-Present"
+  },
+
+  "references":
+  {
+    "name": "Dr. Sejuti Rahman",
+    "a": "Postdoc(Carnegie Mellon University, USA)",
+    "b": "Postdoc (University of Technology Sydney, Australia)",
+    "c": "Ph.D. (Australian National University)",
+    "d": "Assistant Professor",
+    "e": "Department of Robotics and Mechatronics Engineering,",
+    "f": "University of Dhaka.",
+    "g": "sejuti@gmail.com",
+    "h": "Cell:(+880) 01836800864"
+  },
+
   "skillsDescription": "Your skills here",
 
   "skills": [

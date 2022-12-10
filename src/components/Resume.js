@@ -268,6 +268,42 @@ export default class Resume extends Component {
         </div>
 
 
+
+        <div className="row work">
+          <div className="three columns header-col">
+            <h1><span>Voluntary Activities</span></h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <div className="row item">
+              <div className="twelve columns">
+                <div className="row item">
+                  <div className="twelve columns">
+                    <p>
+                      <span><b>{resumeData.voluntaryActivities.a1} </b></span> <span>&bull;</span> <em className="date">{resumeData.voluntaryActivities.d1}</em>
+                      <br />
+                      <span>&diams; </span>{resumeData.voluntaryActivities.t1}
+                      <br />
+                      <span>&diams; </span>{resumeData.voluntaryActivities.t2}
+                      <br />
+                    </p>
+                    <p>
+                      <span><b>{resumeData.voluntaryActivities.a2} </b></span> <span>&bull;</span> <em className="date">{resumeData.voluntaryActivities.d2}</em>
+                      <br />
+                      <span>&diams; </span>{resumeData.voluntaryActivities.t3}
+                      <br />
+                    </p>
+                    <p>
+                      <span><b>{resumeData.voluntaryActivities.a3} </b></span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
         <div className="row skill">
 
           <div className="three columns header-col">
@@ -275,7 +311,26 @@ export default class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-
+            <p>
+              <span><b>{resumeData.references.name}</b></span>
+              <br />
+              {resumeData.references.a}
+              <br />
+              {resumeData.references.b}
+              <br />
+              {resumeData.references.c}
+              <br />
+              {resumeData.references.d}
+              <br />
+              {resumeData.references.e}
+              <br />
+              {resumeData.references.f}
+              <br />
+              {resumeData.references.g}
+              <br />
+              {resumeData.references.h}
+              <br />
+            </p>
           </div>
 
         </div>
