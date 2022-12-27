@@ -2,25 +2,25 @@ let resumeData = {
   "imagebaseurl": "",
   "name": "MD Jubair Ahmed Sourov",
   "role": "Data Scientist, ",
-  "linkedinId": "Your LinkedIn Id",
+  "linkedinId": " md-jubair-ahmed-sourov",
   "skypeid": "Your skypeid",
   "roleDescription": "Robotics Engineer and Research Associate.",
 
   "socialLinks": [
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+      "url": "https://www.linkedin.com/in/md-jubair-ahmed-sourov-a311a6119/",
       "className": "fa fa-linkedin"
     },
     {
       "name": "github",
-      "url": "http://github.com/rbhatia46",
+      "url": "https://github.com/sourovjubair",
       "className": "fa fa-github"
     },
     {
-      "name": "skype",
-      "url": "http://twitter.com/rbhatia46",
-      "className": "fa fa-twitter"
+      "name": "facebook",
+      "url": "https://www.facebook.com/shourov.jubayer.rmedu",
+      "className": "fa fa-facebook"
     }
   ],
 
@@ -199,12 +199,12 @@ let resumeData = {
 
   "testimonials": [
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "To be updated soon",
+      "name": "To be updated soon"
     },
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "To be updated soon",
+      "name": "To be updated soon"
     }
   ]
 }
